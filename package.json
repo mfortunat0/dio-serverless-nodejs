@@ -1,0 +1,11 @@
+{
+  "name": "azure-learn",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+  },
+  "author": "",
+  "dependencies": {
+    "mongodb": "^3.2.7"
+  }
+}
